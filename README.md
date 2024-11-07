@@ -1,9 +1,11 @@
 # AraC-2024
 
-This repository contains the code used for the MD simulations of the phase seperation of IDR-AraC systems presented in the preprint:
+This repository contains the code used for the MD simulations in the preprint:
 
-Phase Separation to Resolve Growth-Related Circuit Failures
+#### Phase Separation to Resolve Growth-Related Circuit Failures
+
 Rong Zhang, Wangfei Yang, Rixin Zhang, Sadikshya Rijal, Abdelrahaman Youssef, Wenwei Zheng, Xiao-Jun Tian
+
 https://www.biorxiv.org/content/10.1101/2024.11.01.621586v1
 
 `openfree` contains the module used for OPENMM simulation. 
