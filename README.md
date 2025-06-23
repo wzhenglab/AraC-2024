@@ -13,3 +13,5 @@ https://www.biorxiv.org/content/10.1101/2024.11.01.621586v1
 `LLPS_long_IDR` contains the necessary files to run the simulation for IDR-only systems. 
 
 Similarly, `LLPS_long_dimer` and `LLPS_long_lamnda` include the necessary files to run the simulations for IDR-AraC systems with tunable dimerization strenght and AraC hydrophobicity strenght respectively.
+
+`Flory-Huggins Model` contains the necessary files to run the numerical solution for Flory-Higgins Model.
