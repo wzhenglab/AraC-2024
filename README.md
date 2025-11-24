@@ -1,12 +1,12 @@
 # AraC-2024
 
-This repository contains the code used for the MD simulations in the preprint:
+This repository contains the code used for the MD simulations in the paper:
 
-#### Phase Separation to Resolve Growth-Related Circuit Failures
+#### Phase separation to buffer growth-mediated dilution in synthetic circuits
 
-Rong Zhang, Wangfei Yang, Rixin Zhang, Sadikshya Rijal, Abdelrahaman Youssef, Wenwei Zheng, Xiao-Jun Tian
+Rong Zhang, Wangfei Yang, Rixin Zhang, Amanda Godar, Sadikshya Rijal, Abdelrahaman Youssef, David R Nielsen, Wenwei Zheng, Xiao-Jun Tian
 
-https://www.biorxiv.org/content/10.1101/2024.11.01.621586v1
+https://www.cell.com/cell/fulltext/S0092-8674(25)01182-1
 
 `openfree` contains the module used for OPENMM simulation. 
 
